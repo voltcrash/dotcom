@@ -1,3 +1,10 @@
+# Rules
+- After each completed logical change, commit and push the changes.
+- Commit messages must follow the Conventional Commits format, be single-line only, and not include descriptions.
+- Never add yourself as a co-author, co-contributor, or contributor in commits or repository metadata.
+- Keep comments rare and concise; use them only for non-obvious constraints, intent, or workarounds, never to narrate self-explanatory code.
+
+<!-- Astro guide -->
 ## Development
 
 When starting the dev server, use background mode:
@@ -20,3 +27,5 @@ Consult these guides before working on related tasks:
 - [Adding or managing content](https://docs.astro.build/en/guides/content-collections/)
 - [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
 - [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
+
+<!-- end Astro guide -->
